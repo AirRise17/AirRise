@@ -1,3 +1,3 @@
 Air Rise
 ========
-![Image](Logo AirRise.png "icon")
+![Image](Logo AirRise.png)
