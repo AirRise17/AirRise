@@ -18,7 +18,7 @@ Team picture
 ----------------------------------------------------------------------------------
 <details>
 We don't have photos of everyone but that will happen soon
-
+<details>
   
 3D model
 ========
