@@ -17,7 +17,7 @@ Team picture
 [ Team picture here](https://github.com/AirRise17/AirRise/tree/main/picture%20of%20team)
 ----------------------------------------------------------------------------------
 
-We don't have photos of everyone but that will happen soon
+<details>We don't have photos of everyone but that will happen soon</details>
 
 3D model
 ========
