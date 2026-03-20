@@ -11,4 +11,8 @@ this cryptocurrency has not been published yet, you can find it on GitHub
 the project's web mini game
 ===========================
 [mini game](https://github.com/AirRise17/AirRise/tree/aaba12ae04f5b518d1ce01521a0c170aaa12e252/airise%20game)
---------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
+Team picture
+============
+[picture here]
+--------------
