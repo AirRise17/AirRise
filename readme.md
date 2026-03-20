@@ -1,3 +1,3 @@
 Air Rise
 ========
-![Image](Logo AirRise.png)
+![Image](https://github.com/AirRise17/AirRise/blob/main/Logo%20AirRise.png)
