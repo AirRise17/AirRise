@@ -18,4 +18,10 @@ Team picture
 ----------------------------------------------------------------------------------
 We don't have photos of everyone but that will happen soon
 ----------------------------------------------------------
+3D model
+========
+camera casing in 3D model
+-------------------------
+[Model 3D here](https://github.com/AirRise17/AirRise/tree/main/3D)
+------------------------------------------------------------------
 
